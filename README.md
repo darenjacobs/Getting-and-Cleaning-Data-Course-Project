@@ -2,6 +2,7 @@
 ## Contents:
 `codbook.md` - describes the variables, the data, and any transformations or work that you performed to clean up the data.
 `run_analysis.R` - the R code that collects, works with, and cleans a data set and prepares tidy data that can be used for later analysis.
+
 `tidy_data.txt` - The output from run_analysis.R
 
 ## Assumptions
